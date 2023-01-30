@@ -11,7 +11,10 @@
 
 body {
     font-family: "Roboto", sans-serif;
+    background-color: var(--b-color);
+    color: var(--main-color);
 }
+
 
 .link {
     text-decoration: none;
